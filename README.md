@@ -20,8 +20,7 @@ Dodatkowe opcje:\
 a. bloczek blockwall uaktywniający poziomą ścianę złożoną z bloczków, dzięki której piłka nie ma jak spaść (jej bloczki można zestrzelić)
 + bloczek multi powodujący multiplikację piłki do 4 sztuk
          \
-Ułatwienia dla edytora:\
-+
-przejście do następnego poziomu - klawisz N
+Ułatwienia dla edytora:
++przejście do następnego poziomu - klawisz N
 +
 utworzenie ściany bloczków - klawisz B
